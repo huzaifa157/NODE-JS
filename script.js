@@ -1,5 +1,4 @@
-let args = process.argv;
+let income = require("./module");
 
-for(let i = 2 ; i<args.length; i++){
-    console.log("Hello! to " , args[i]);
-}
+console.log(income)
+console.log(income.sum(5,4));
