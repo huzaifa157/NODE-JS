@@ -9,3 +9,4 @@
 const info = require("./ExportInDirectory");
 console.log(info[2]);
 console.log(info[2].Name);
+console.log(info[1].Name)
