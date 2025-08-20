@@ -45,7 +45,4 @@ exports.sum = (a,b)=> a + b;
 // 3rd way is simplest where we use exports before varaible with dot, but for lengthy data 2nd way or 1st way is best
 
 
-
-
-
-
+      
